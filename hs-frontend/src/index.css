@@ -1,0 +1,16 @@
+body {
+    /*overflow-y: hidden;*/
+    margin: 0;
+    background-image: url("./components/images/HSBackground.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "luminari";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
