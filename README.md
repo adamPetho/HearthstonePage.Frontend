@@ -33,9 +33,8 @@ To Visit App:
 
 `localhost:3000/`  
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Original repo: https://github.com/alexseres/FrontEnd
 
-Please make sure to update tests as appropriate.
+Repo made to save my work in case the alexseres profile is deleted.
 
 
